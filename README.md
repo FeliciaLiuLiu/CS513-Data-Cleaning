@@ -1,1 +1,4 @@
-# CS513-Data-Cleaning
+The goal of the group project is to conduct an end-to-end data cleaning project, using the various tools and techniques that we have covered throughout the course. In addition to the main tools that we used in class (i.e., RegEx, OpenRefine, Datalog, SQL, and Python), you are welcome to use other tools as well. For example, you may want to use any of the research prototypes mentioned (e.g., YesWorkflow or the OpenRefine companion tools such as or2yw), or commercial tools (e.g., Trifacta Wrangler, Tableau, etc.) In your report you will then document how you used these tools. Project Phases. The project is organized into two phases, each with its own set of deliverables.
+
+Phase-I should typically be completed within one or two weeks from the project start, while
+Phase-II extends to the end of the semester (check campuswire for the specific target dates).
